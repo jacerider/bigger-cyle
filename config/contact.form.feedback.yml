@@ -1,0 +1,14 @@
+uuid: ba5c5749-6ef3-49ca-829d-fb8e18aac465
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jacerider@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
